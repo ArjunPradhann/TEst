@@ -1,7 +1,5 @@
-// src/components/Marks.js
 import React, { useState } from "react";
 import {
-  Button,
   Table,
   TableBody,
   TableCell,
